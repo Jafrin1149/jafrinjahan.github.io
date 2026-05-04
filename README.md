@@ -24,12 +24,12 @@ Leading University (2022 – Present)
 
 ## 💻 Technical Skills
 
- - Programming Languages: C, C++, Python, Java
-App Development: Flutter (Cross-platform mobile app development)
-Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving
-Tools & Technologies: Git (Basic), GitHub, Microsoft Word, Excel, PowerPoint
-Database (Basic): MySQL
-Other Skills: Debugging, Code Optimization, Basic UI/UX Understanding
+- Programming Languages: C, C++, Python, Java
+- App Development: Flutter (Cross-platform mobile app development)
+- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving
+- Tools & Technologies: Git (Basic), GitHub, Microsoft Word, Excel, PowerPoint
+- Database (Basic): MySQL
+- Other Skills: Debugging, Code Optimization, Basic UI/UX Understanding
 ---
 
 ##  Projects
@@ -54,6 +54,8 @@ Other Skills: Debugging, Code Optimization, Basic UI/UX Understanding
 - Led organization of **IEEE Day 2024 & 2025** (IEEE LU Student Branch)   
 - Coordinated industry visit for IEEE members 
 - led organization of Carnival LUCC Program
+
+  
 ---
 
 ##  Positions of Responsibility
