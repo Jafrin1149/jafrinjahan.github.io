@@ -22,7 +22,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - Programming Languages: C, C++, Python, Java
 - App Development: Flutter (Cross-platform mobile app development)
@@ -45,7 +45,7 @@ Leading University (2022 – Present)
 - Focused on responsive UI and smooth performance
  
 
-> 🔧 *More projects coming soon...*
+>  *More projects coming soon...*
 
 ---
 
@@ -112,7 +112,8 @@ Leading University (2022 – Present)
 - Organizing and volunteering in technical events
 - Learning about emerging trends in IT and innovation
 - Listening to music and engaging in creative activities
-
+  
+---
 ##  Connect With Me
 
 -  LinkedIn: www.linkedin.com/in/jafrin-j-802542263  
