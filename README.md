@@ -105,11 +105,11 @@ Other Skills: Debugging, Code Optimization, Basic UI/UX Understanding
 ---
 
 ## Hobbies & Interests
-Traveling and exploring new places
-Exploring new technologies and software tools
-Organizing and volunteering in technical events
-Learning about emerging trends in IT and innovation
-Listening to music and engaging in creative activities
+- Traveling and exploring new places
+- Exploring new technologies and software tools
+- Organizing and volunteering in technical events
+- Learning about emerging trends in IT and innovation
+- Listening to music and engaging in creative activities
 
 ##  Connect With Me
 
