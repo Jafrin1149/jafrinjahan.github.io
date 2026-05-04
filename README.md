@@ -7,10 +7,9 @@
 
 ## Professional Summary
 
-Final semester Computer Science & Engineering student with strong foundational knowledge in programming, problem-solving, and software development. Experienced in organizing technical events and leading student communities. Passionate about building real-world applications and continuously learning modern technologies.
+Final-year Computer Science & Engineering student with a strong foundation in software development, problem-solving, and teamwork. Demonstrated leadership through organizing large-scale technical events and actively contributing to student organizations. Passionate about building impactful applications and continuously improving technical skills.
 
-Currently seeking an opportunity to contribute technical and leadership skills in a growth-oriented organization.
-
+Seeking an entry-level role to apply my knowledge, gain industry experience, and contribute to innovative projects
 ---
 
 ##  Education
@@ -25,22 +24,26 @@ Leading University (2022 – Present)
 
 ## 💻 Technical Skills
 
-- **Languages:** C, C++, Java, Python  
-- **App Development:** Flutter  
-- **Tools:** Microsoft Word, Excel, PowerPoint, Git (Basic)  
-
+ - Programming Languages: C, C++, Python, Java
+App Development: Flutter (Cross-platform mobile app development)
+Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving
+Tools & Technologies: Git (Basic), GitHub, Microsoft Word, Excel, PowerPoint
+Database (Basic): MySQL
+Other Skills: Debugging, Code Optimization, Basic UI/UX Understanding
 ---
 
 ##  Projects
 
-###  Student Management System
-- Developed a system to manage student records efficiently  
+###   MOVIE REVIEW APP
+- Developed a system to manage movie review efficiently  
 - Implemented CRUD operations  
-- Built using C++ / Java  
+- Built using Flutter
+- Using Supabase
 
 ###  Flutter Mobile App
 - Developed a cross-platform mobile application  
-- Focused on responsive UI and smooth performance  
+- Focused on responsive UI and smooth performance
+ 
 
 > 🔧 *More projects coming soon...*
 
@@ -48,12 +51,9 @@ Leading University (2022 – Present)
 
 ##  Leadership & Organizational Experience
 
-- Led organization of **IEEE Day 2025** (IEEE LU Student Branch)  
-- Organized programming contest with **200+ participants**  
-- Coordinated industry visit for IEEE members  
-- Conducted seminar:  
-  *"Shaping Tomorrow with IoT, Big Data, and Cloud Computing"*  
-
+- Led organization of **IEEE Day 2024 & 2025** (IEEE LU Student Branch)   
+- Coordinated industry visit for IEEE members 
+- led organization of Carnival LUCC Program
 ---
 
 ##  Positions of Responsibility
@@ -71,7 +71,7 @@ Leading University (2022 – Present)
 
 ##  Achievements & Certifications
 
-- Volunteer Appreciation Certificate  
+- Many Volunteer Appreciation Certificate  
 - Best Class Representative Certificate  
 - IEEE Computer Society Recognition  
 - Participation in multiple technical events  
@@ -99,16 +99,24 @@ Leading University (2022 – Present)
 
 - Build strong expertise in software development  
 - Work on impactful real-world projects  
-- Grow into a skilled software engineer  
+- Grow into a skilled software engineer
+- Video Editing & Photography 
 
 ---
+
+## Hobbies & Interests
+Traveling and exploring new places
+Exploring new technologies and software tools
+Organizing and volunteering in technical events
+Learning about emerging trends in IT and innovation
+Listening to music and engaging in creative activities
 
 ##  Connect With Me
 
 -  LinkedIn: www.linkedin.com/in/jafrin-j-802542263  
--  GitHub: (https://github.com/Jafrin1149) 
--  Portfolio:   
+-  GitHub: https://github.com/Jafrin1149
+-  Portfolio:  https://jafrin1149.github.io/jafrinjahan.github.io/
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+ *Thank you for visiting my profile!*
