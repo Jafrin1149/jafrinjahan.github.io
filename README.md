@@ -1,6 +1,6 @@
 # 👩‍💻 Sheikh Jafrin Jahan Any
 
-📧 your.email@example.com  
+📧 sheikhjafrinjahanany@gmail.com 
 💼 [LinkedIn](#) | 📂 [Portfolio](#) | 🐙 [GitHub](#)
 
 ---
