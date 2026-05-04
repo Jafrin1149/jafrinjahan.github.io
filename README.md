@@ -1,11 +1,11 @@
 # 👩‍💻 Sheikh Jafrin Jahan Any
 
 📧 sheikhjafrinjahanany@gmail.com 
-💼 [LinkedIn](#) | 📂 [Portfolio](#) | 🐙 [GitHub](#)
+ [LinkedIn](#) |  [Portfolio](#) |  [GitHub](#)
 
 ---
 
-## 🧾 Professional Summary
+## Professional Summary
 
 Final semester Computer Science & Engineering student with strong foundational knowledge in programming, problem-solving, and software development. Experienced in organizing technical events and leading student communities. Passionate about building real-world applications and continuously learning modern technologies.
 
@@ -13,7 +13,7 @@ Currently seeking an opportunity to contribute technical and leadership skills i
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Sc. in Computer Science & Engineering**  
 Leading University (2022 – Present)
@@ -31,14 +31,14 @@ Leading University (2022 – Present)
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📌 Student Management System
+###  Student Management System
 - Developed a system to manage student records efficiently  
 - Implemented CRUD operations  
 - Built using C++ / Java  
 
-### 📌 Flutter Mobile App
+###  Flutter Mobile App
 - Developed a cross-platform mobile application  
 - Focused on responsive UI and smooth performance  
 
@@ -46,7 +46,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🏆 Leadership & Organizational Experience
+##  Leadership & Organizational Experience
 
 - Led organization of **IEEE Day 2025** (IEEE LU Student Branch)  
 - Organized programming contest with **200+ participants**  
@@ -56,7 +56,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🎖 Positions of Responsibility
+##  Positions of Responsibility
 
 - **Publicity Coordinator**  
   IEEE Computer Society LU SB Chapter (2025 – 2026)
@@ -69,7 +69,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🏅 Achievements & Certifications
+##  Achievements & Certifications
 
 - Volunteer Appreciation Certificate  
 - Best Class Representative Certificate  
@@ -78,7 +78,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🌟 Core Strengths
+##  Core Strengths
 
 - Leadership & teamwork  
 - Strong communication skills  
@@ -87,7 +87,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - Bengali (Native)  
 - English (Professional)  
@@ -95,7 +95,7 @@ Leading University (2022 – Present)
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Build strong expertise in software development  
 - Work on impactful real-world projects  
@@ -103,11 +103,11 @@ Leading University (2022 – Present)
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: [Add Link]  
-- 🐙 GitHub: [Add Link]  
-- 🌐 Portfolio: [Add Link]  
+-  LinkedIn: www.linkedin.com/in/jafrin-j-802542263  
+-  GitHub: (https://github.com/Jafrin1149) 
+-  Portfolio:   
 
 ---
 
